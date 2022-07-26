@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  myProgress
+//  TechnicalTest
 //
 //  Created by Andres Diaz Orozco on 25/07/22.
 //
